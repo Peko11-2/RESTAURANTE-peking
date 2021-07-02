@@ -87,55 +87,55 @@ VALUES('ESP003', 'Entremetier ', 'Chef de verduras');
 /* insertar cocinero*/
 INSERT INTO cocinero
 (id_cocinero, id_escuela, id_restaurante, especialidad_coc, fecha_contrato, tiempo_experiencia, ced_cocinero, nombre_cocinero, apellido_cocinero, sexo_cocinero, fnacimiento_cocinero, direccion_cocinero, telefono_cocinero)
-VALUES('CO001', 'ESC001', 'RE01', 'ESP001', '2019-03-25', '5 años', '1318989897', 'Valentin', 'Pico', 'SEX01', '2000-02-13', 'Calle. 316 av. 201', '0989583981');
+VALUES('CO001', 'ESC001', 'RE01', 'ESP001', '2019-03-25', '5 aÃ±os', '1318989897', 'Valentin', 'Pico', 'SEX01', '2000-02-13', 'Calle. 316 av. 201', '0989583981');
 INSERT INTO cocinero
 (id_cocinero, id_escuela, id_restaurante, especialidad_coc, fecha_contrato, tiempo_experiencia, ced_cocinero, nombre_cocinero, apellido_cocinero, sexo_cocinero, fnacimiento_cocinero, direccion_cocinero, telefono_cocinero)
-VALUES('CO004', 'ESC001', 'RE01', 'ESP001', '2019-03-25', '10 años', '1317895783', 'Kouichi ', 'Honma', 'SEX02', '1987-03-10', 'Calle. 90 av. 102', '0912312443');
+VALUES('CO004', 'ESC001', 'RE01', 'ESP001', '2019-03-25', '10 aÃ±os', '1317895783', 'Kouichi ', 'Honma', 'SEX02', '1987-03-10', 'Calle. 90 av. 102', '0912312443');
 INSERT INTO cocinero
 (id_cocinero, id_escuela, id_restaurante, especialidad_coc, fecha_contrato, tiempo_experiencia, ced_cocinero, nombre_cocinero, apellido_cocinero, sexo_cocinero, fnacimiento_cocinero, direccion_cocinero, telefono_cocinero)
-VALUES('CO002', 'ESC002', 'RE01', 'ESP002', '2019-03-20', '3 años', '1310987658', 'Kenig', 'Ponce', 'SEX01', '2000-02-13', 'Calle. 14 av. 32', '0989583981');
+VALUES('CO002', 'ESC002', 'RE01', 'ESP002', '2019-03-20', '3 aÃ±os', '1310987658', 'Kenig', 'Ponce', 'SEX01', '2000-02-13', 'Calle. 14 av. 32', '0989583981');
 INSERT INTO cocinero
 (id_cocinero, id_escuela, id_restaurante, especialidad_coc, fecha_contrato, tiempo_experiencia, ced_cocinero, nombre_cocinero, apellido_cocinero, sexo_cocinero, fnacimiento_cocinero, direccion_cocinero, telefono_cocinero)
-VALUES('CO003', 'ESC001', 'RE01', 'ESP001', '2019-03-15', '4 años', '1319897878', 'Sadato ', 'Ouchi', 'SEX02', '1993-06-02', 'Calle. 13 av. 280', '0987654321');
+VALUES('CO003', 'ESC001', 'RE01', 'ESP001', '2019-03-15', '4 aÃ±os', '1319897878', 'Sadato ', 'Ouchi', 'SEX02', '1993-06-02', 'Calle. 13 av. 280', '0987654321');
 INSERT INTO cocinero
 (id_cocinero, id_escuela, id_restaurante, especialidad_coc, fecha_contrato, tiempo_experiencia, ced_cocinero, nombre_cocinero, apellido_cocinero, sexo_cocinero, fnacimiento_cocinero, direccion_cocinero, telefono_cocinero)
-VALUES('CO005', 'ESC001', 'RE01', 'ESP002', '2019-09-20', '8 años', '1319877898', 'Bin ', 'Takeshita', 'SEX01', '1985-10-13', 'Calle. 90 av. 98', '0923425254');
+VALUES('CO005', 'ESC001', 'RE01', 'ESP002', '2019-09-20', '8 aÃ±os', '1319877898', 'Bin ', 'Takeshita', 'SEX01', '1985-10-13', 'Calle. 90 av. 98', '0923425254');
 INSERT INTO cocinero
 (id_cocinero, id_escuela, id_restaurante, especialidad_coc, fecha_contrato, tiempo_experiencia, ced_cocinero, nombre_cocinero, apellido_cocinero, sexo_cocinero, fnacimiento_cocinero, direccion_cocinero, telefono_cocinero)
-VALUES('CO006', 'ESC001', 'RE01', 'ESP002', '2019-09-15', '7 años', '1318978776', 'Hidehisa', 'Fujisawa', 'SEX02', '1992-09-28', 'Calle. 456 av. 123', '0912631242');
+VALUES('CO006', 'ESC001', 'RE01', 'ESP002', '2019-09-15', '7 aÃ±os', '1318978776', 'Hidehisa', 'Fujisawa', 'SEX02', '1992-09-28', 'Calle. 456 av. 123', '0912631242');
 INSERT INTO cocinero
 (id_cocinero, id_escuela, id_restaurante, especialidad_coc, fecha_contrato, tiempo_experiencia, ced_cocinero, nombre_cocinero, apellido_cocinero, sexo_cocinero, fnacimiento_cocinero, direccion_cocinero, telefono_cocinero)
-VALUES('CO007', 'ESC001', 'RE01', 'ESP004', '2019-09-16', '9 años', '1313865757', 'Okito ', 'Tashiro', 'SEX02', '1995-06-18', 'Calle. 145 av. 123', '0891241353');
+VALUES('CO007', 'ESC001', 'RE01', 'ESP004', '2019-09-16', '9 aÃ±os', '1313865757', 'Okito ', 'Tashiro', 'SEX02', '1995-06-18', 'Calle. 145 av. 123', '0891241353');
 INSERT INTO cocinero
 (id_cocinero, id_escuela, id_restaurante, especialidad_coc, fecha_contrato, tiempo_experiencia, ced_cocinero, nombre_cocinero, apellido_cocinero, sexo_cocinero, fnacimiento_cocinero, direccion_cocinero, telefono_cocinero)
-VALUES('CO008', 'ESC002', 'RE01', 'ESP004', '2019-09-23', '3 años', '1319887545', 'Masahiro ', 'Shinohara', 'SEX01', '1987-06-25', 'Calle. 123 av. 451', '0912552231');
+VALUES('CO008', 'ESC002', 'RE01', 'ESP004', '2019-09-23', '3 aÃ±os', '1319887545', 'Masahiro ', 'Shinohara', 'SEX01', '1987-06-25', 'Calle. 123 av. 451', '0912552231');
 INSERT INTO cocinero
 (id_cocinero, id_escuela, id_restaurante, especialidad_coc, fecha_contrato, tiempo_experiencia, ced_cocinero, nombre_cocinero, apellido_cocinero, sexo_cocinero, fnacimiento_cocinero, direccion_cocinero, telefono_cocinero)
-VALUES('CO009', 'ESC003', 'RE01', 'ESP004', '2020-03-10', '4 años', '1319884563', 'Keisei ', 'Yamazaki', 'SEX02', '1995-05-15', 'Calle. 456 av. 683', '0913456435');
+VALUES('CO009', 'ESC003', 'RE01', 'ESP004', '2020-03-10', '4 aÃ±os', '1319884563', 'Keisei ', 'Yamazaki', 'SEX02', '1995-05-15', 'Calle. 456 av. 683', '0913456435');
 INSERT INTO cocinero
 (id_cocinero, id_escuela, id_restaurante, especialidad_coc, fecha_contrato, tiempo_experiencia, ced_cocinero, nombre_cocinero, apellido_cocinero, sexo_cocinero, fnacimiento_cocinero, direccion_cocinero, telefono_cocinero)
-VALUES('CO010', 'ESC003', 'RE01', 'ESP003', '2020-03-30', '5 años', '1310978653', 'Shigeo ', 'Sumita', 'SEX02', '1982-08-17', 'Calle. 14 av. 364', '0923534521');
+VALUES('CO010', 'ESC003', 'RE01', 'ESP003', '2020-03-30', '5 aÃ±os', '1310978653', 'Shigeo ', 'Sumita', 'SEX02', '1982-08-17', 'Calle. 14 av. 364', '0923534521');
 INSERT INTO cocinero
 (id_cocinero, id_escuela, id_restaurante, especialidad_coc, fecha_contrato, tiempo_experiencia, ced_cocinero, nombre_cocinero, apellido_cocinero, sexo_cocinero, fnacimiento_cocinero, direccion_cocinero, telefono_cocinero)
-VALUES('CO012', 'ESC003', 'RE01', 'ESP003', '2020-03-21', '10 años', '1318975333', 'Izuho ', 'Matsuda', 'SEX01', '1985-10-13', 'Calle. 312 av. 332', '0932342342');
+VALUES('CO012', 'ESC003', 'RE01', 'ESP003', '2020-03-21', '10 aÃ±os', '1318975333', 'Izuho ', 'Matsuda', 'SEX01', '1985-10-13', 'Calle. 312 av. 332', '0932342342');
 INSERT INTO cocinero
 (id_cocinero, id_escuela, id_restaurante, especialidad_coc, fecha_contrato, tiempo_experiencia, ced_cocinero, nombre_cocinero, apellido_cocinero, sexo_cocinero, fnacimiento_cocinero, direccion_cocinero, telefono_cocinero)
-VALUES('CO011', 'ESC002', 'RE01', 'ESP003', '2020-03-08', '6 años', '1319876545', 'Shungo ', 'Akita', 'SEX01', '1992-10-29', 'Calle. 142 av. 32', '0923425114');
+VALUES('CO011', 'ESC002', 'RE01', 'ESP003', '2020-03-08', '6 aÃ±os', '1319876545', 'Shungo ', 'Akita', 'SEX01', '1992-10-29', 'Calle. 142 av. 32', '0923425114');
 
 
 /* insertar meseros*/
 INSERT INTO mesero
 (id_mesero, id_restaurante, fecha_salida, fecha_contrato, tiempo_experiencia, ced_mesero, nombre_mesero, apellido_mesero, sexo_mesero, fnacimiento_mesero, direccion_mesero, telefono_mesero)
-VALUES('M001', 'RE01', '2020-04-21', '2019-04-21', '3 años', '13189689987', 'Kleyfer', 'Toala', 'SEX01', '1986-03-19', 'La proaño', '09213123112');
+VALUES('M001', 'RE01', '2020-04-21', '2019-04-21', '3 aÃ±os', '13189689987', 'Kleyfer', 'Toala', 'SEX01', '1986-03-19', 'La proaÃ±o', '09213123112');
 INSERT INTO mesero
 (id_mesero, id_restaurante, fecha_salida, fecha_contrato, tiempo_experiencia, ced_mesero, nombre_mesero, apellido_mesero, sexo_mesero, fnacimiento_mesero, direccion_mesero, telefono_mesero)
-VALUES('M002', 'RE01', '2020-03-25', '2019-03-25', '3 años', '13112898989', 'Darwin', 'Chavez', 'SEX01', '1987-12-26', 'Nueva esperanza', '09241241412');
+VALUES('M002', 'RE01', '2020-03-25', '2019-03-25', '3 aÃ±os', '13112898989', 'Darwin', 'Chavez', 'SEX01', '1987-12-26', 'Nueva esperanza', '09241241412');
 INSERT INTO mesero
 (id_mesero, id_restaurante, fecha_salida, fecha_contrato, tiempo_experiencia, ced_mesero, nombre_mesero, apellido_mesero, sexo_mesero, fnacimiento_mesero, direccion_mesero, telefono_mesero)
-VALUES('M003', 'RE01', '2019-09-19', '2019-03-19', '1 año', '13189897833', 'Milena', 'Pico', 'SEX02', '2003-02-13', 'Cuba', '09838123685');
+VALUES('M003', 'RE01', '2019-09-19', '2019-03-19', '1 aÃ±o', '13189897833', 'Milena', 'Pico', 'SEX02', '2003-02-13', 'Cuba', '09838123685');
 INSERT INTO mesero
 (id_mesero, id_restaurante, fecha_salida, fecha_contrato, tiempo_experiencia, ced_mesero, nombre_mesero, apellido_mesero, sexo_mesero, fnacimiento_mesero, direccion_mesero, telefono_mesero)
-VALUES('M004', 'RE01', '2020-03-30', '2019-03-30', '5 años', '13139889789', 'Humberto', 'Morales', 'SEX01', '1996-01-24', 'Santa martha', '09342323324');
+VALUES('M004', 'RE01', '2020-03-30', '2019-03-30', '5 aÃ±os', '13139889789', 'Humberto', 'Morales', 'SEX01', '1996-01-24', 'Santa martha', '09342323324');
 
 /* insertar clientes*/
 INSERT INTO cliente
@@ -388,7 +388,7 @@ INSERT INTO plato
 VALUES('PLAT019', 'CO011', 'TORTILLAS DE CALABACIN', '2020-03-10', NULL, NULL);
 INSERT INTO plato
 (id_plato, id_cocinero, nombre_plato, fecha_creacion, precio_venta, precio)
-VALUES('PLAT020', 'CO012', 'LASAÑA DE ESPINACAS', '2020-03-22', NULL, NULL);
+VALUES('PLAT020', 'CO012', 'LASAÃ‘A DE ESPINACAS', '2020-03-22', NULL, NULL);
 INSERT INTO plato
 (id_plato, id_cocinero, nombre_plato, fecha_creacion, precio_venta, precio)
 VALUES('PLAT022', 'CO007', 'POLLO FRITO', '2019-09-18', NULL, NULL);
@@ -1885,8 +1885,3 @@ select MENU.ID_MENU,COCINERO.ID_COCINERO
 FROM HORARIO INNER JOIN COCINERO ON
 COCINERO.ID_COCINERO= HORARIO.ID_COCINERO INNER JOIN MENU ON HORARIO.DIA_HORARIO = MENU.DIA_MENU
 WHERE HORARIO.DIA_HORARIO='LUNES';
-
-
-
-
-/* insertar mesas*/
