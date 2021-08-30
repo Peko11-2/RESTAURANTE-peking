@@ -1,0 +1,7 @@
+
+--4TA--------------------------------------------------------------------
+--IREPORT
+select nombre_plato, count(detalle_factura) as cantidad_vendida
+from plato inner join preparacion on plato.id_plato=preparacion.id_plato
+inner join detalle_factura on preparacion.id_preparacion = detalle_factura.id_preparacion
+group by nombre_plato

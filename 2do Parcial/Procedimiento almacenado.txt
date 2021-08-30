@@ -1,0 +1,17 @@
+--3era------------------------------------------------------------------
+--PROCEDIMIENTO ALMACENADO
+create or replace function Cantidad_de_platos (in nombre_chef text, out platoss int ) as
+$$
+begin
+	select count(plato)into platoss from plato 
+	inner join cocinero on cocinero.id_cocinero=plato.id_cocinero where cocinero.nombre_cocinero=nombre_chef
+	group by nombre_cocinero;
+end;
+$$
+language 'plpgsql';
+
+select Cantidad_de_platos('Valentin');
+select Cantidad_de_platos('Kenig');
+select Cantidad_de_platos('Bin ');
+select Cantidad_de_platos('Sadato');
+
